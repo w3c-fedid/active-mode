@@ -6,6 +6,8 @@ The first part of the proposal handles a `button mode` (as opposed to / in addit
 
 The second part allows users to `use other accounts` in the account chooser, for example, when IdPs support multiple accounts or replacing the existing account.
 
+<img width="1031" src="https://github.com/user-attachments/assets/7a0c6b1f-b793-4712-8e5e-98a07a1ff591">
+
 ## Stage
 
 This is a [Stage 1](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md) proposal.
